@@ -1,3 +1,4 @@
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 Python project that allows to create, to list and to modify different restaurants as a back-end application.
 
 This application will show a complete Main Menu with four different options: register a restaurant, list all restaurants, change the restaurant's status and close the application.
